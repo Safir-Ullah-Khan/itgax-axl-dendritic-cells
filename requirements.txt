@@ -1,0 +1,8 @@
+scanpy==1.11.5
+anndata==0.12.18
+cellxgene-census>=1.15
+numpy>=2.0
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.7
+h5py>=3.9
